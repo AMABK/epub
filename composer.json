@@ -7,7 +7,7 @@
         "PHP",
         "metadata"
     ],
-    "homepage": "https://github.com/epubli/epub",
+    "homepage": "https://github.com/amabk/epub",
     "license": "MIT",
     "authors": [
         {
@@ -29,7 +29,7 @@
         "ext-zip": "*",
         "epubli/common": "master"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require-dev": {
         "phpunit/phpunit": "~4.0"
     },
