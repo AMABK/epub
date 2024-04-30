@@ -1,5 +1,5 @@
 {
-    "name": "epubli/epub",
+    "name": "amabk/epub",
     "type": "library",
     "description": "A PHP library for reading and manipulating contents and metadata of EPUB files.",
     "keywords": [
